@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HUNTER x HUNTER 30",
+    "precio": 5900,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/hunterhunter30-6143ed3a4d2b081fa917115407688418-480-0.webp"
+  },
+  {
+    "name": "BLUE LOCK 20",
+    "precio": 5900,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/bluelock20-9e8960666a893cdaf117115399364678-480-0.webp"
+  },
+  {
+    "name": "RUROUNI KENSHIN (EDICION KANZENBAN) 04",
+    "precio": 14000,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/rurounikenshink04-bdce8d4282e65f0ed517115415436776-480-0.webp"
+  },
+  {
+    "name": "HAIKYU!! 26",
+    "precio": 5900,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/haikyu26-0ea6ed914bcccc283c17109451742915-480-0.webp"
+  },
+  {
+    "name": "ONE PIECE 77",
+    "precio": 5900,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/onepiece77-265f1915a7cbf49b9317109441690884-480-0.webp"
+  },
+  {
+    "name": "MASHLE 12",
+    "precio": 5900,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/mashle12-0e682ab3b0cdc4b75d17109434120765-480-0.webp"
+  },
+  {
+    "name": "CAPTAIN TSUBASA 15",
+    "precio": 11500,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/captaintsubasa15-dea8391603d9a1067317109458337683-480-0.webp"
+  },
+  {
+    "name": "SHAMAN KING (EDICIÓN DELUXE) 05",
+    "precio": 12500,
+    "imgUrl": "https://acdn.mitiendanube.com/stores/399/159/products/shamankingk_05arg1-84dfe14f40e2e39b2116196419610763-480-0.webp"
+  }
+]
