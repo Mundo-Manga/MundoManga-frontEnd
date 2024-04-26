@@ -12,6 +12,7 @@ window.addEventListener("load", (e) => {
     setTimeout(cambiarImagen, 2000); // 2000 milisegundos = 2 segundos
   }
   cambiarImagen(); // Llamada inicial para iniciar el ciclo
+
   fetch("productos.json")
     .then((response) => response.json())
     .then((data) => {
